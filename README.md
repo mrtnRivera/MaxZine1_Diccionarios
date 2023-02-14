@@ -1,5 +1,7 @@
 # MaxZine(vol_1) Diccionarios
 
+![ MaxZine cover ](/media/maxzine1.png "Cover")
+
 ## ¿Qué es MaxZine?
 MaxZine es un fanzine digital sobre Max/MSP en español. Un fanzine educativo en un patch de Max.
 
