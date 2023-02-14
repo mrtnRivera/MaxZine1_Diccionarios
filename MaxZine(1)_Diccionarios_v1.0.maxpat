@@ -177,7 +177,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "jit_matrix" ],
-					"patching_rect" : [ 475.0, 369.0, 187.0, 187.0 ],
+					"patching_rect" : [ 481.0, 369.0, 187.0, 187.0 ],
 					"pic" : "AUDIOLAP2 HD:/Users/FERNANDA/Developer/Max/Diccionarios Max/media/portada_dict.png"
 				}
 
@@ -529,12 +529,12 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-2",
-									"linecount" : 10,
+									"linecount" : 9,
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 104.0, 69.0, 272.0, 141.0 ],
-									"text" : "por Martín Rivera O.\n\nEste maxzine es producto de la inspiración obtenida por proyectos como el fanzine Pinche Chica Chic en Ciudad de México que siempre buscan formatos novedosos para su publicación, Wizard Zines de Julia Evans, el fanzine [iom!] sobre Pure Data de Isaac Medina y Paola Sandoval, y muchos otros proyectos que buscan compartir conocimiento."
+									"patching_rect" : [ 104.0, 69.0, 272.0, 127.0 ],
+									"text" : "por Martín Rivera O.\n\nEste maxzine es producto de la inspiración obtenida por proyectos como el fanzine Pinche Chica Chic en Ciudad de México que siempre buscan formatos novedosos para su publicación, Wizard Zines de Julia Evans, el fanzine [iom!] sobre Pure Data de Isaac Medina y Paola Sandoval."
 								}
 
 							}
@@ -1105,19 +1105,6 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 501.0, 533.0, 455.0, 22.0 ],
 									"text" : "setparse Mexico moneda: peso capital: CDMX idioma: castellano track: Mexico.mp3"
-								}
-
-							}
-, 							{
-								"box" : 								{
-									"bubble" : 1,
-									"id" : "obj-91",
-									"linecount" : 3,
-									"maxclass" : "comment",
-									"numinlets" : 1,
-									"numoutlets" : 0,
-									"patching_rect" : [ 1034.0, 48.0, 166.0, 51.0 ],
-									"text" : "Creamos un mensaje con el comando get y la llave del pais seleccionado."
 								}
 
 							}
@@ -2930,7 +2917,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 850.0, 456.0, 254.0, 57.0 ],
+									"patching_rect" : [ 850.0, 456.0, 259.0, 57.0 ],
 									"text" : "Cuando buscamos data dentro del diccionario tampoco importa el orden de sus llaves.",
 									"textcolor" : [ 0.094117647058824, 0.701960784313725, 0.145098039215686, 1.0 ]
 								}
@@ -3228,7 +3215,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 153.5, 156.0, 150.0, 47.0 ],
+									"patching_rect" : [ 153.5, 156.0, 152.0, 47.0 ],
 									"text" : "Obten el valor de una llave por el segundo outlet del objeto dict."
 								}
 
