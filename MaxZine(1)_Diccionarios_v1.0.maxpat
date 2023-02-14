@@ -887,10 +887,10 @@
 									"clipheight" : 23.875,
 									"data" : 									{
 										"clips" : [ 											{
-												"absolutepath" : "Argentina.mp3",
-												"filename" : "Argentina.mp3",
+												"absolutepath" : "AUDIOLAP2 HD:/Users/FERNANDA/Library/Application Support/Cycling '74/Max 8/Settings/Cache/Argentina.mp3.aif",
+												"filename" : "Argentina.mp3.aif",
 												"filekind" : "audiofile",
-												"id" : "u519001398",
+												"id" : "u894000971",
 												"loop" : 0,
 												"content_state" : 												{
 
@@ -898,10 +898,10 @@
 
 											}
 , 											{
-												"absolutepath" : "Brasil.mp3",
-												"filename" : "Brasil.mp3",
+												"absolutepath" : "AUDIOLAP2 HD:/Users/FERNANDA/Library/Application Support/Cycling '74/Max 8/Settings/Cache/Brasil.mp3.aif",
+												"filename" : "Brasil.mp3.aif",
 												"filekind" : "audiofile",
-												"id" : "u882001400",
+												"id" : "u463000985",
 												"loop" : 0,
 												"content_state" : 												{
 
@@ -909,10 +909,10 @@
 
 											}
 , 											{
-												"absolutepath" : "Mexico.mp3",
-												"filename" : "Mexico.mp3",
+												"absolutepath" : "AUDIOLAP2 HD:/Users/FERNANDA/Library/Application Support/Cycling '74/Max 8/Settings/Cache/Mexico.mp3.aif",
+												"filename" : "Mexico.mp3.aif",
 												"filekind" : "audiofile",
-												"id" : "u975001401",
+												"id" : "u733001042",
 												"loop" : 0,
 												"content_state" : 												{
 
@@ -920,10 +920,10 @@
 
 											}
 , 											{
-												"absolutepath" : "Peru.mp3",
-												"filename" : "Peru.mp3",
+												"absolutepath" : "AUDIOLAP2 HD:/Users/FERNANDA/Library/Application Support/Cycling '74/Max 8/Settings/Cache/Peru.mp3.aif",
+												"filename" : "Peru.mp3.aif",
 												"filekind" : "audiofile",
-												"id" : "u412001402",
+												"id" : "u805001055",
 												"loop" : 0,
 												"content_state" : 												{
 
@@ -2779,7 +2779,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 429.5, 505.0, 76.0, 33.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Mensaje contains ->"
 								}
 
@@ -2792,7 +2791,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 606.0, 511.5, 76.0, 33.0 ],
-									"presentation_linecount" : 2,
 									"text" : "Mensaje getnames ->"
 								}
 
@@ -2805,7 +2803,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 429.5, 564.0, 76.0, 33.0 ],
-									"presentation_linecount" : 3,
 									"text" : "Mensaje getkeys ->"
 								}
 
@@ -3413,7 +3410,6 @@
 									"numinlets" : 1,
 									"numoutlets" : 0,
 									"patching_rect" : [ 771.0, 576.5, 254.0, 57.0 ],
-									"presentation_linecount" : 3,
 									"text" : "Una ventaja de los diccionarios es que NO importa el orden en el que agregamos sus elementos.",
 									"textcolor" : [ 0.094117647058824, 0.701960784313725, 0.145098039215686, 1.0 ]
 								}
@@ -3751,31 +3747,31 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "Argentina.mp3",
-				"bootpath" : "~/Developer/Max/MaxZine_1/MaxZine[1]_Diccionarios_v0.1",
-				"patcherrelativepath" : ".",
-				"type" : "Mp3",
+				"name" : "Argentina.mp3.aif",
+				"bootpath" : "~/Library/Application Support/Cycling '74/Max 8/Settings/Cache",
+				"patcherrelativepath" : "../../../../Library/Application Support/Cycling '74/Max 8/Settings/Cache",
+				"type" : "AIFF",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "Brasil.mp3",
-				"bootpath" : "~/Developer/Max/MaxZine_1/MaxZine[1]_Diccionarios_v0.1",
-				"patcherrelativepath" : ".",
-				"type" : "Mp3",
+				"name" : "Brasil.mp3.aif",
+				"bootpath" : "~/Library/Application Support/Cycling '74/Max 8/Settings/Cache",
+				"patcherrelativepath" : "../../../../Library/Application Support/Cycling '74/Max 8/Settings/Cache",
+				"type" : "AIFF",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "Mexico.mp3",
-				"bootpath" : "~/Developer/Max/MaxZine_1/MaxZine[1]_Diccionarios_v0.1",
-				"patcherrelativepath" : ".",
-				"type" : "Mp3",
+				"name" : "Mexico.mp3.aif",
+				"bootpath" : "~/Library/Application Support/Cycling '74/Max 8/Settings/Cache",
+				"patcherrelativepath" : "../../../../Library/Application Support/Cycling '74/Max 8/Settings/Cache",
+				"type" : "AIFF",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "Peru.mp3",
-				"bootpath" : "~/Developer/Max/MaxZine_1/MaxZine[1]_Diccionarios_v0.1",
-				"patcherrelativepath" : ".",
-				"type" : "Mp3",
+				"name" : "Peru.mp3.aif",
+				"bootpath" : "~/Library/Application Support/Cycling '74/Max 8/Settings/Cache",
+				"patcherrelativepath" : "../../../../Library/Application Support/Cycling '74/Max 8/Settings/Cache",
+				"type" : "AIFF",
 				"implicit" : 1
 			}
  ],
